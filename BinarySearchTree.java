@@ -1,3 +1,5 @@
+/*Binary Search Tree basic code including basic operations like insertion, deletion, search and count nodes.*/
+
 import java.util.Scanner;
  
  /* Class BSTNode */
